@@ -38,7 +38,7 @@
    }
 
    .intro_bg{
-       background-image:url("image/gradienta-LeG68PrXA6Y-unsplash.jpg");
+       background-image:url("gradienta-LeG68PrXA6Y-unsplash.jpg");
        width:100%;
        height:718px;
    }
@@ -211,7 +211,7 @@
        margin: auto;
        width: 100;
        height: 300px;
-       background-image: url("image/yky5.JPG");
+       background-image: url("yky5.JPG");
    }
 
    .main_text2 > ul {
